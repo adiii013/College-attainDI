@@ -1,0 +1,131 @@
+body{
+    background-color: #F7F7F7;
+}
+
+
+.img_class{
+    margin: auto;
+    margin-top: 3%;
+}
+
+.top_div{
+    text-align: center;
+    margin-top: 2rem;
+}
+.cllge_img_logo{
+    width: 180px;
+}
+
+.img_2{
+    height: 340px;
+    width: 30rem;
+}
+
+.img_1{
+    height: 400px;
+    width: 40rem;
+}
+
+.download_btn{
+    padding: 3rem;
+    text-align: center;
+}
+
+.top_heading{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.top_heading_h1{
+    padding: 2rem;
+    font-size: 3rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.img_info{
+    text-align: center;
+}
+
+.img_text{
+    width:80rem;
+}
+
+.bulb{
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.bulb_top_container{
+    margin-top: 5rem;
+}
+
+.bulb_top{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.bulb_img{
+    width: 100px;
+}
+
+.inlinedisplay{
+    display: inline;
+}
+
+.border_dot{
+    text-align: center;
+    padding: 1rem;
+    font-size: 5rem;
+    color: darkgray;
+}
+
+.inst{
+    text-align: center;
+    margin-top: 1rem;
+    font-family: 'Jost', sans-serif;
+    color: black;
+
+}
+
+.red_text{
+    color: crimson;
+}
+
+.download{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.thank{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    padding: 5rem;
+}
+
+.inst{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.download_view{
+    margin-inline: 5rem;
+}
+
+.inst_div{
+    margin-left: 3rem;
+    margin-top: 4rem;
+}
+
+.inst_p{
+    font-size: 1.5rem;
+}
+
+.cllge{
+     font-family: 'Raleway', sans-serif;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
